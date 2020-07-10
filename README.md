@@ -7,7 +7,8 @@ be sent over the web for security reasons. Companies like Google, Salesforce and
 password. Now that I've given you a little background over hashing, let's go over how to run this program.
 
 ## Instructions
-1. Download this program on your computer
-2. Open up your terminal, go to the program's location and run `python3 passwordchecker.py`
-3. Enter the passwords you would like to check and make sure that if you are entering multiple passwords, they are divided by a space
-4. Press the Enter or return key on your keyboard and see the magic happen!
+- Download this program on your computer
+- Open up your terminal, go to the program's location and run `python3 passwordchecker.py`
+- Enter the passwords you would like to check and make sure that if you are entering multiple passwords, they are divided by a space
+  - For example, if you wanted to check for three passwords, you can write something like `abcde 12345 iAmAwesome!`
+- Press the Enter or return key on your keyboard and see the magic happen!
